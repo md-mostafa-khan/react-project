@@ -1,4 +1,4 @@
 # react-project
 practice projects
 
-hello doniyah
+this is learning project
