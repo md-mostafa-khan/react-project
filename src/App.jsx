@@ -102,6 +102,7 @@ export default function Game() {
     )
   })
   
+  
   return (
     <div className="flex justify-center p-4 bg-fuchsia-500">
       <div className="mr-5">
