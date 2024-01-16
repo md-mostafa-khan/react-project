@@ -86,7 +86,6 @@ export default function Game() {
     setXIsNext(move % 2 == 0);
   }
 
-  
   const moves = history.map((squares, move) => {
     let description;
     if(move > 0 ){
